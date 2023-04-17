@@ -11,7 +11,7 @@
 # Funcionalidades
 
 # Produto
-<img src="/ArteMMIB/IMAGE BOT/i1.png">
+<img src="IMAGE BOT/i1.png">
 
 # Integrantes
 <p> Gabriel Santos: https://www.linkedin.com/in/gbrsantos/ </p>

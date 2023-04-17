@@ -8,9 +8,9 @@
 <p> Desenvolver uma aplicação de fácil uso e acesso </p>
 <p> Ajudar com a publicidade dos produtos da ilha </p>
 
-#Funcionalidades
+# Funcionalidades
 
-#Produto
+# Produto
 <img src="/ArteMMIB/IMAGE BOT/i1.png">
 
 # Integrantes

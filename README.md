@@ -8,7 +8,7 @@
 <p> Desenvolver uma aplicação de fácil uso e acesso </p>
 <p> Ajudar com a publicidade dos produtos da ilha </p>
 
-# Funcionalidades
+# Principais Funcionalidades
 
 # Produto
 <img src="IMAGE BOT/i1.png">

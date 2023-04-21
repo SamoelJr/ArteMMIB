@@ -19,6 +19,7 @@ As principais funcionalidades da ArteMMIB são:
 <img src="https://user-images.githubusercontent.com/80661099/233701487-b79eb545-d690-4d93-a4c3-ce5cbf43d242.jpeg">
 
 <h1>Integrantes do projeto</h1>
+
 Gabriel De Oliveira Santos, e-mail: gabriel20070022@aluno.cesupa.br
 
 Isaac Ponte Angelim, e-mail: isaac20070028@aluno.cesupa.br
